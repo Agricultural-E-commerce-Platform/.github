@@ -43,7 +43,8 @@
 
 > 전체 시스템 구조
 
-![architecture](./architecture.png)
+<img width="3324" height="2684" alt="서버 아키텍쳐 구조도" src="https://github.com/user-attachments/assets/7c5ae5f3-b16d-4ab7-80f8-5ed236936fa2" />
+
 
 ---
 
@@ -59,6 +60,8 @@
 ## 📅 프로젝트 기간
 
 2026.04.08 ~ 2026.04.28
+
+[마일스톤](https://github.com/Agricultural-E-commerce-Platform/Agricultural-E-commerce-Platform-Docs/blob/50c7d199a2d3525c6ee79ca0020525c3b0881502/documents/milestone/Milestone.md)
 
 ---
 
@@ -88,9 +91,3 @@
 ### Performance
 - Redis Distributed Lock
 - Caffeine Cache
-
----
-
-## 💡 한 줄 정리
-
-동시성 제어(Redis Lock + DB 조건 검증)와 캐싱 전략을 통해 이커머스 서비스의 안정성과 성능을 개선한 백엔드 프로젝트 
