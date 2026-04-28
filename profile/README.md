@@ -79,7 +79,7 @@
 ## ⚙️ 기술 스택
 
 ### Backend
-- Java 17, Spring Boot
+- Java 17, Spring Boot 3.x
 - Spring Security + JWT
 - Spring Data JPA, QueryDSL
 
