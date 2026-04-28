@@ -91,3 +91,11 @@
 ### Performance
 - Redis Distributed Lock
 - Caffeine Cache
+
+---
+
+# ⚖️ License
+This documentation follows the MIT License of the main project.
+
+See the LICENSE file in the main repository for details:  
+https://github.com/Agricultural-E-commerce-Platform/Agricultural-E-commerce-Platform/blob/main/LICENSE
